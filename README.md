@@ -1,5 +1,5 @@
 # Credit-Card-Default-Prediction-
-
+## Link to the paper : credit card default.pdf
 ## ML algorithm used: 
 1. logistic regression
 2. Support vector machine
