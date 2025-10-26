@@ -12,7 +12,7 @@ This project implements and compares multiple machine learning algorithms to pre
 
 ## 🔗 Resources
 
-- **Research Paper**: [credit card default.pdf](https://github.com/sajinamatya/Credit-card-default-prediction-/blob/main/credit%20card%20default.pdf)
+- **Project Paper**: [credit card default.pdf](https://github.com/sajinamatya/Credit-card-default-prediction-/blob/main/credit%20card%20default.pdf)
 
 ## 🎯 Project Objectives
 
